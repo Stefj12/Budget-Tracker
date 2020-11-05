@@ -22,6 +22,7 @@ You will need to install express, morgan, mongoose, and compression to run this 
  you'll need to run node server.js from the js folder in the console, then go to localhost:3000 in your browser. This will bring you to the starting page of the app.
  
  ## Screen Shot
+ ![Screenshot (20)](https://user-images.githubusercontent.com/70540019/98195628-125fc400-1ed7-11eb-811c-631e70c76c42.png)
 
 
  
